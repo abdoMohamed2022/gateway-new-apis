@@ -81,20 +81,7 @@ jobs:
         with:
           # For posting a rich message using Block Kit
           
-          payload: | 
-              {
-              "POST https://hooks.slack.com/services/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"
-              "text": "GitHub Action build result: ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}",
-              "blocks": [
-              {
-              "type": "section",
-              "text": {
-              "type": "mrkdwn",
-              "text": "GitHub Action build result: ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}"
-              }
-              }
-              ]
-              }
+         payload: "{\"text\":\"Incoming Webhook test for slack send\", \"blocks\":[{\"type\":\"section\",\"text\":{\"type\":\"plain_text\",\"text\":\"A post by Slack Send GitHub Action. Testing Incoming webhooks\",\"emoji\":true}}]}"
     env:
       SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
       SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
