@@ -6,13 +6,13 @@
       "name" : "The status code should be 200 expected [200] but found [404]",
       "children" : [ {
         "name" : "verifyDeleteUserResponseStatusCode",
-        "uid" : "d09c93eb6b67dd9f",
+        "uid" : "880ffde6ca0253f0",
         "parentUid" : "b498ff4f1655ea4a3f336af887c6f50e",
         "status" : "failed",
         "time" : {
-          "start" : 1646341124107,
-          "stop" : 1646341127045,
-          "duration" : 2938
+          "start" : 1646341451142,
+          "stop" : 1646341453816,
+          "duration" : 2674
         },
         "flaky" : false,
         "newFailed" : false,

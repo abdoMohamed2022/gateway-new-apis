@@ -7,6 +7,14 @@
     "retry" : 0
   }
 }, {
+  "buildOrder" : 8,
+  "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/8/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 8,
+    "retry" : 0
+  }
+}, {
   "buildOrder" : 7,
   "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/7/",
   "reportName" : "Allure Report with history",
