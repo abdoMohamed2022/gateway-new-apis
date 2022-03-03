@@ -83,5 +83,5 @@ jobs:
           
          payload: "{\"text\":\"Incoming Webhook test for slack send\", \"blocks\":[{\"type\":\"section\",\"text\":{\"type\":\"plain_text\",\"text\":\"A post by Slack Send GitHub Action. Testing Incoming webhooks\",\"emoji\":true}}]}"
     env:
-      SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
+      SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
       SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
