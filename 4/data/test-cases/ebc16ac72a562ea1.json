@@ -1,0 +1,134 @@
+{
+  "uid" : "ebc16ac72a562ea1",
+  "name" : "verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenIGetUser",
+  "fullName" : "tests.users.UsersTest.verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenIGetUser",
+  "historyId" : "dcae716c055935f96d7441ab4e88bc07",
+  "time" : {
+    "start" : 1646339420483,
+    "stop" : 1646339421583,
+    "duration" : 1100
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ef9a8af6efb2ba9a",
+      "name" : "Request",
+      "source" : "ef9a8af6efb2ba9a.html",
+      "type" : "text/html",
+      "size" : 1027
+    }, {
+      "uid" : "abb89eb35645e7b3",
+      "name" : "HTTP/1.1 201 Created",
+      "source" : "abb89eb35645e7b3.html",
+      "type" : "text/html",
+      "size" : 2049
+    }, {
+      "uid" : "fd81d9a7f914a2b8",
+      "name" : "Request",
+      "source" : "fd81d9a7f914a2b8.html",
+      "type" : "text/html",
+      "size" : 1313
+    }, {
+      "uid" : "ef5c5cb047905fa6",
+      "name" : "HTTP/1.1 200 OK",
+      "source" : "ef5c5cb047905fa6.html",
+      "type" : "text/html",
+      "size" : 2049
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.users.UsersTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.users.UsersTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenIGetUser"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.users.UsersTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az397-259"
+  }, {
+    "name" : "thread",
+    "value" : "2191@fv-az397-259.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "aa1f4f411bf92209",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/3//#testresult/aa1f4f411bf92209",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646338856057,
+          "stop" : 1646338857109,
+          "duration" : 1052
+        }
+      }, {
+        "uid" : "2d38c630d94c074e",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/2//#testresult/2d38c630d94c074e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646338678961,
+          "stop" : 1646338679688,
+          "duration" : 727
+        }
+      }, {
+        "uid" : "60b20b6a8024cca5",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/1//#testresult/60b20b6a8024cca5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646338481453,
+          "stop" : 1646338482746,
+          "duration" : 1293
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ebc16ac72a562ea1.json",
+  "parameterValues" : [ ]
+}

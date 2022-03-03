@@ -1,0 +1,122 @@
+{
+  "uid" : "977005c649b7cea8",
+  "name" : "verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenICreateUser",
+  "fullName" : "tests.users.UsersTest.verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenICreateUser",
+  "historyId" : "8eb594f85d7a969514e7b3e820001794",
+  "time" : {
+    "start" : 1646339419897,
+    "stop" : 1646339420481,
+    "duration" : 584
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8261855dbf5f3ea5",
+      "name" : "Request",
+      "source" : "8261855dbf5f3ea5.html",
+      "type" : "text/html",
+      "size" : 1027
+    }, {
+      "uid" : "fc5ee00eeaa021ea",
+      "name" : "HTTP/1.1 201 Created",
+      "source" : "fc5ee00eeaa021ea.html",
+      "type" : "text/html",
+      "size" : 2049
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.users.UsersTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.users.UsersTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenICreateUser"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.users.UsersTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az397-259"
+  }, {
+    "name" : "thread",
+    "value" : "2191@fv-az397-259.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "786ecb8fdc9dda61",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/3//#testresult/786ecb8fdc9dda61",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646338855466,
+          "stop" : 1646338856055,
+          "duration" : 589
+        }
+      }, {
+        "uid" : "dfab593a16311ef6",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/2//#testresult/dfab593a16311ef6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646338678531,
+          "stop" : 1646338678960,
+          "duration" : 429
+        }
+      }, {
+        "uid" : "180cdcb2776409d0",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/1//#testresult/180cdcb2776409d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646338479761,
+          "stop" : 1646338481451,
+          "duration" : 1690
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "977005c649b7cea8.json",
+  "parameterValues" : [ ]
+}

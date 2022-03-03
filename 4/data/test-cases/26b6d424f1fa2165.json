@@ -1,0 +1,128 @@
+{
+  "uid" : "26b6d424f1fa2165",
+  "name" : "testTest",
+  "fullName" : "tests.contacts.ContactsTest.testTest",
+  "historyId" : "b9e8a5ff209aca6f2b0f5fd5e15a0c4f",
+  "time" : {
+    "start" : 1646339421863,
+    "stop" : 1646339421863,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1646339421587,
+      "stop" : 1646339421856,
+      "duration" : 269
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fed4c014f089f2cc",
+      "name" : "Request",
+      "source" : "fed4c014f089f2cc.html",
+      "type" : "text/html",
+      "size" : 505
+    }, {
+      "uid" : "82c7d47c81f97573",
+      "name" : "HTTP/1.1 404 Not Found",
+      "source" : "82c7d47c81f97573.html",
+      "type" : "text/html",
+      "size" : 429
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.contacts.ContactsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.contacts.ContactsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.contacts.ContactsTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az397-259"
+  }, {
+    "name" : "thread",
+    "value" : "2191@fv-az397-259.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "dc9203479469454b",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/3//#testresult/dc9203479469454b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646338857373,
+          "stop" : 1646338857374,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "20245c9b47445a8f",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/2//#testresult/20245c9b47445a8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646338679795,
+          "stop" : 1646338679795,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "ea497b7908676560",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/1//#testresult/ea497b7908676560",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646338483025,
+          "stop" : 1646338483026,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "26b6d424f1fa2165.json",
+  "parameterValues" : [ ]
+}
