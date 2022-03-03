@@ -1,0 +1,96 @@
+{
+  "uid" : "60b20b6a8024cca5",
+  "name" : "verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenIGetUser",
+  "fullName" : "tests.users.UsersTest.verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenIGetUser",
+  "historyId" : "dcae716c055935f96d7441ab4e88bc07",
+  "time" : {
+    "start" : 1646338481453,
+    "stop" : 1646338482746,
+    "duration" : 1293
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8df98d64706040fb",
+      "name" : "Request",
+      "source" : "8df98d64706040fb.html",
+      "type" : "text/html",
+      "size" : 1027
+    }, {
+      "uid" : "294c3a1172ae65a1",
+      "name" : "HTTP/1.1 201 Created",
+      "source" : "294c3a1172ae65a1.html",
+      "type" : "text/html",
+      "size" : 2049
+    }, {
+      "uid" : "34e778b745719d74",
+      "name" : "Request",
+      "source" : "34e778b745719d74.html",
+      "type" : "text/html",
+      "size" : 1313
+    }, {
+      "uid" : "ef4edb18e839771e",
+      "name" : "HTTP/1.1 200 OK",
+      "source" : "ef4edb18e839771e.html",
+      "type" : "text/html",
+      "size" : 2049
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.users.UsersTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.users.UsersTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenIGetUser"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.users.UsersTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az397-259"
+  }, {
+    "name" : "thread",
+    "value" : "2186@fv-az397-259.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60b20b6a8024cca5.json",
+  "parameterValues" : [ ]
+}
