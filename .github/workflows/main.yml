@@ -82,8 +82,9 @@ jobs:
           # For posting a rich message using Block Kit
           payload: |
             {
-              "text": "GitHub Action build result: ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}"
+            POST https://hooks.slack.com/services/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
+            Content-type: application/json
+              {
+                "text": "Hello, world."
+              }
             }
-        env:
-          SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
-          SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
