@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://abdoMohamed2022.github.io/gateway-new-apis",
+  "buildOrder" : 40,
+  "buildName" : "GitHub Actions Run #1933168495",
+  "buildUrl" : "https://github.com/abdoMohamed2022/gateway-new-apis/actions/runs/1933168495",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/40/"
+} ]
