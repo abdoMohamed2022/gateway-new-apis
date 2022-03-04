@@ -1,0 +1,81 @@
+[ {
+  "uid" : "f8cf882685a493a8",
+  "name" : "verifySchemaOfResponseWhenUpdatingUser",
+  "time" : {
+    "start" : 1646419560182,
+    "stop" : 1646419562310,
+    "duration" : 2128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8789dea13e881663",
+  "name" : "verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenIGetUser",
+  "time" : {
+    "start" : 1646419562964,
+    "stop" : 1646419563898,
+    "duration" : 934
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3dd25197a494f8f4",
+  "name" : "testTest",
+  "time" : {
+    "start" : 1646419564019,
+    "stop" : 1646419564020,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9aebaaee69e5f727",
+  "name" : "verifyDeleteUserResponseStatusCode",
+  "time" : {
+    "start" : 1646419551913,
+    "stop" : 1646419554686,
+    "duration" : 2773
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c269ef1b7ec83d78",
+  "name" : "verifySchemaOfResponseWhenCreatingValidUser",
+  "time" : {
+    "start" : 1646419557189,
+    "stop" : 1646419558028,
+    "duration" : 839
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c931bf3877c69f1d",
+  "name" : "verifySchemaOfResponseWhenGettingUser",
+  "time" : {
+    "start" : 1646419558030,
+    "stop" : 1646419560180,
+    "duration" : 2150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ccc622aea527b7e",
+  "name" : "verifyLoginResponseSchema",
+  "time" : {
+    "start" : 1646419554737,
+    "stop" : 1646419557187,
+    "duration" : 2450
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "125ffe3b4e94a4bd",
+  "name" : "verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenICreateUser",
+  "time" : {
+    "start" : 1646419562312,
+    "stop" : 1646419562962,
+    "duration" : 650
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
