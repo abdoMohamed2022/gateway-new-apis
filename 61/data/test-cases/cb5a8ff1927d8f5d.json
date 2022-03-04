@@ -1,0 +1,281 @@
+{
+  "uid" : "cb5a8ff1927d8f5d",
+  "name" : "testTest",
+  "fullName" : "tests.contacts.ContactsTest.testTest",
+  "historyId" : "b9e8a5ff209aca6f2b0f5fd5e15a0c4f",
+  "time" : {
+    "start" : 1646428732804,
+    "stop" : 1646428732804,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1646428732719,
+      "stop" : 1646428732796,
+      "duration" : 77
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a0ee72470b5d6e0c",
+      "name" : "Request",
+      "source" : "a0ee72470b5d6e0c.html",
+      "type" : "text/html",
+      "size" : 505
+    }, {
+      "uid" : "cf4eef4f3c804af3",
+      "name" : "HTTP/1.1 404 Not Found",
+      "source" : "cf4eef4f3c804af3.html",
+      "type" : "text/html",
+      "size" : 429
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.contacts.ContactsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.contacts.ContactsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.contacts.ContactsTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az198-498"
+  }, {
+    "name" : "thread",
+    "value" : "2161@fv-az198-498.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 63,
+        "unknown" : 0,
+        "total" : 63
+      },
+      "items" : [ {
+        "uid" : "c14158d21784e371",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/60//#testresult/c14158d21784e371",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646426467354,
+          "stop" : 1646426467354,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "c83721c151f64c86",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/59//#testresult/c83721c151f64c86",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646425341447,
+          "stop" : 1646425341448,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "2fade24f7391c94c",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/58//#testresult/2fade24f7391c94c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646422714475,
+          "stop" : 1646422714476,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "c2fba9eab600b629",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/57//#testresult/c2fba9eab600b629",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646421358852,
+          "stop" : 1646421358852,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "3dd25197a494f8f4",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/56//#testresult/3dd25197a494f8f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646419564019,
+          "stop" : 1646419564020,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "801fb641d4401cbb",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/55//#testresult/801fb641d4401cbb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646418328089,
+          "stop" : 1646418328089,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "c1ad82f345329aa1",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/54//#testresult/c1ad82f345329aa1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646415610718,
+          "stop" : 1646415610718,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "83fc14a4ccad3cee",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/53//#testresult/83fc14a4ccad3cee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646414524107,
+          "stop" : 1646414524109,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "5615e21070c364c",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/52//#testresult/5615e21070c364c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646413064504,
+          "stop" : 1646413064504,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "3b1011bb37a3f2b3",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/51//#testresult/3b1011bb37a3f2b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646411701636,
+          "stop" : 1646411701636,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "cac65277ae6226b0",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/50//#testresult/cac65277ae6226b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646408914048,
+          "stop" : 1646408914049,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "e8127cbb86709d03",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/49//#testresult/e8127cbb86709d03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646407460931,
+          "stop" : 1646407460934,
+          "duration" : 3
+        }
+      }, {
+        "uid" : "d157311943569ce6",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/48//#testresult/d157311943569ce6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646404957062,
+          "stop" : 1646404957063,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "314232ff9679f379",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/47//#testresult/314232ff9679f379",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646403852289,
+          "stop" : 1646403852289,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "cb3b01defdf540ba",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/46//#testresult/cb3b01defdf540ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646401214307,
+          "stop" : 1646401214307,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "edff8fff4e5415f4",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/45//#testresult/edff8fff4e5415f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646400261115,
+          "stop" : 1646400261115,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "baad3f364b196d3d",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/44//#testresult/baad3f364b196d3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646397305581,
+          "stop" : 1646397305582,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "1eb555b46bba0ea7",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/43//#testresult/1eb555b46bba0ea7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646393907899,
+          "stop" : 1646393907900,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "137f0cf0dab46bad",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/42//#testresult/137f0cf0dab46bad",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646392663060,
+          "stop" : 1646392663060,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "745378d3ce80c833",
+        "reportUrl" : "https://abdoMohamed2022.github.io/gateway-new-apis/41//#testresult/745378d3ce80c833",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646390547685,
+          "stop" : 1646390547685,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "cb5a8ff1927d8f5d.json",
+  "parameterValues" : [ ]
+}
