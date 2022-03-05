@@ -1,0 +1,117 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az204-60",
+    "children" : [ {
+      "name" : "2232@fv-az204-60.main(1)",
+      "children" : [ {
+        "name" : "verifySchemaOfResponseWhenGettingUser",
+        "uid" : "7272d00dca2bd6df",
+        "parentUid" : "2144dbff300f49f04ca3d4b20a9d6f4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646448855741,
+          "stop" : 1646448857805,
+          "duration" : 2064
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testTest",
+        "uid" : "b6ddcb06fe5c1177",
+        "parentUid" : "2144dbff300f49f04ca3d4b20a9d6f4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646448861606,
+          "stop" : 1646448861607,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoginResponseSchema",
+        "uid" : "f5a927613c9e8d2d",
+        "parentUid" : "2144dbff300f49f04ca3d4b20a9d6f4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646448853584,
+          "stop" : 1646448854905,
+          "duration" : 1321
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenIGetUser",
+        "uid" : "8c384adc787e7592",
+        "parentUid" : "2144dbff300f49f04ca3d4b20a9d6f4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646448860524,
+          "stop" : 1646448861481,
+          "duration" : 957
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyThatTheUserDataIsReturnedSuccessfullyAndNotEmptyWhenICreateUser",
+        "uid" : "f6d08bb67e2151fd",
+        "parentUid" : "2144dbff300f49f04ca3d4b20a9d6f4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646448859670,
+          "stop" : 1646448860519,
+          "duration" : 849
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDeleteUserResponseStatusCode",
+        "uid" : "5b447e5aef79078c",
+        "parentUid" : "2144dbff300f49f04ca3d4b20a9d6f4f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1646448850465,
+          "stop" : 1646448853529,
+          "duration" : 3064
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySchemaOfResponseWhenUpdatingUser",
+        "uid" : "878bb80d1ca7bae0",
+        "parentUid" : "2144dbff300f49f04ca3d4b20a9d6f4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646448857808,
+          "stop" : 1646448859666,
+          "duration" : 1858
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySchemaOfResponseWhenCreatingValidUser",
+        "uid" : "25276e3972825a2a",
+        "parentUid" : "2144dbff300f49f04ca3d4b20a9d6f4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646448854907,
+          "stop" : 1646448855739,
+          "duration" : 832
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2144dbff300f49f04ca3d4b20a9d6f4f"
+    } ],
+    "uid" : "9d3b8f4faf3017e8f2b220e9f17c72a8"
+  } ],
+  "name" : "timeline"
+}
