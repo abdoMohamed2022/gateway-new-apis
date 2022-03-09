@@ -84,5 +84,5 @@ jobs:
               "text": "Hi there"
             }
         env:
-          SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
+          SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
           SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
