@@ -81,16 +81,7 @@ jobs:
           # For posting a rich message using Block Kit
           payload: |
             {
-              "text": "GitHub Action build result: ${{ job.status }}\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}",
-              "blocks": [
-                {
-                  "type": "section",
-                  "text": {
-                    "type": "mrkdwn",
-                    "text": "GitHub Action build result: ${{ job.status }}\nAllure Report URL:\n https://abdomohamed2022.github.io/gateway-new-apis/${{ github.run_number }}"
-                  }
-                }
-              ]
+              "text": "Hi there"
             }
         env:
           SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
